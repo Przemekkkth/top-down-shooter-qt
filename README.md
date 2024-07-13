@@ -10,3 +10,4 @@ Top Down Shooter is an engaging and fast-paced 2D shooting game developed using 
 * [Font](https://www.dafont.com/juniory.font) - font
 * [Tiles/Images](https://kenney.nl) - kenney.nl
 * [Github repo](https://github.com/challacade/udemy-love2d/tree/master/TopDownShooter) - inspiration
+* [youtube](https://youtu.be/YuSc8oCXHxk) - gameplay
