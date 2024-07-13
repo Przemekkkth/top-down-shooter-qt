@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/background.png</file>
+        <file>assets/bullet.png</file>
+        <file>assets/player.png</file>
+        <file>assets/zombie.png</file>
+        <file>assets/juniory.ttf</file>
+        <file>assets/crosshair.png</file>
+    </qresource>
+</RCC>
